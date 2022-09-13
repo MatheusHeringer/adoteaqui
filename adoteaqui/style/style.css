@@ -1,0 +1,38 @@
+body{
+    color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+.adoteaqui{
+    width: 70%;
+    color: yellow;
+    background-color: gray;
+    text-align:left ;
+    float:left ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.menus{
+    width: 30%;
+    background-color: yellow;
+    color: black;
+    float: right;
+}
+
+.menus li{
+    display: inline;
+    padding: 5%;
+    
+    
+}
+.adoteaqui p{
+    padding: 0% 2%;
+}
+
+.menus li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
