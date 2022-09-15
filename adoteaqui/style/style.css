@@ -1,0 +1,69 @@
+body{
+    background-color: burlywood;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    
+.adoteaqui{
+    width: 70%; 
+    color: yellow;
+    background-color: gray;
+    text-align:left ;
+    float:left ;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.menus{
+    width: 30%; height: 50%;
+    
+    background-color: yellow;
+    color: black;
+    float: right;
+}
+
+.menus li{
+    display: inline;
+    padding: 7%;
+
+}
+.adoteaqui p{
+    padding-left: 2%;
+    font-size: 100%;
+
+}
+
+.menus li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+}
+
+.content{
+    width: 42.5%; 
+    
+    float: left;
+    margin-top: 3%;
+    margin-left: 5%;
+    padding-top: 5%;
+}
+
+.content2{
+    width: 42.5%; 
+
+    float: right;
+    margin-top: 3%;
+    margin-right: 5%;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.content p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
